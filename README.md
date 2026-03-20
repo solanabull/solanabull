@@ -1,6 +1,6 @@
 ## 🛠️ Polymarket & Solana Trading Systems Expert  
 ### Trading Bot • Dashboard • Backend Engineer  
-[📞 Contact (Solana Expert)](https://t.me/solanabull0)
+[📞 Contact](https://t.me/solanabull0)
 
 Built with hands-on experience in **Polymarket prediction markets** and **Solana-based trading systems**.
 
